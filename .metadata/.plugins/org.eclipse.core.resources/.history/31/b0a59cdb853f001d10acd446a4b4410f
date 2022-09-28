@@ -1,0 +1,5 @@
+package com.company.inventory.controller;
+
+public class CategoryRestController {
+
+}
